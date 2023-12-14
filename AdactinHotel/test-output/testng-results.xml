@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25921" started-at="2023-12-14T21:36:15 IST" finished-at="2023-12-14T21:36:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25921" started-at="2023-12-14T21:36:15 IST" finished-at="2023-12-14T21:36:41 IST">
+      <class name="org.adactin.AdactinHotel">
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.adactin.AdactinHotel@5bfbf16f]" name="test1" is-config="true" duration-ms="10398" started-at="2023-12-14T21:36:15 IST" finished-at="2023-12-14T21:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.adactin.AdactinHotel@5bfbf16f]" name="test2" is-config="true" duration-ms="0" started-at="2023-12-14T21:36:25 IST" finished-at="2023-12-14T21:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.adactin.AdactinHotel@5bfbf16f]" name="test3" duration-ms="15371" started-at="2023-12-14T21:36:25 IST" finished-at="2023-12-14T21:36:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.adactin.AdactinHotel@5bfbf16f]" name="test4" is-config="true" duration-ms="0" started-at="2023-12-14T21:36:41 IST" finished-at="2023-12-14T21:36:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:org.adactin.AdactinHotel@5bfbf16f]" name="test5" is-config="true" duration-ms="103" started-at="2023-12-14T21:36:41 IST" finished-at="2023-12-14T21:36:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- org.adactin.AdactinHotel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
